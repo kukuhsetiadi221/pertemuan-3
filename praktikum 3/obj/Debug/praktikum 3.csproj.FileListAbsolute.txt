@@ -1,0 +1,8 @@
+D:\Pemrograman C#\praktikum 3\praktikum 3\bin\Debug\praktikum 3.exe.config
+D:\Pemrograman C#\praktikum 3\praktikum 3\bin\Debug\praktikum 3.exe
+D:\Pemrograman C#\praktikum 3\praktikum 3\bin\Debug\praktikum 3.pdb
+D:\Pemrograman C#\praktikum 3\praktikum 3\obj\Debug\praktikum 3.csproj.AssemblyReference.cache
+D:\Pemrograman C#\praktikum 3\praktikum 3\obj\Debug\praktikum 3.csproj.SuggestedBindingRedirects.cache
+D:\Pemrograman C#\praktikum 3\praktikum 3\obj\Debug\praktikum 3.csproj.CoreCompileInputs.cache
+D:\Pemrograman C#\praktikum 3\praktikum 3\obj\Debug\praktikum 3.exe
+D:\Pemrograman C#\praktikum 3\praktikum 3\obj\Debug\praktikum 3.pdb
