@@ -21,7 +21,7 @@ namespace praktikum_3
         public void Gas()
         {
             Console.Write(" Mobil {0}", Model);
-            Console.Write(" berjalan dengan kecepatan {0}km/jam\n", Kecepatan);
+            Console.Write(" berjalan dengan kecepatan {0} km/jam\n", Kecepatan);
         }
 
         public void Klakson()
