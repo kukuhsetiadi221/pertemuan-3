@@ -20,22 +20,22 @@ namespace praktikum_3
 
         public void Gas()
         {
-            Console.WriteLine("Mobil {0}", Model);
-            Console.WriteLine("berjalan dengan kecepatan {0}\n", Kecepatan);
+            Console.Write(" Mobil {0}", Model);
+            Console.Write(" berjalan dengan kecepatan {0}km/jam\n", Kecepatan);
         }
 
         public void Klakson()
         {
-            Console.WriteLine("Suara {0}\n", Suara);
+            Console.WriteLine("\n Suara {0}\n", Suara);
         }
 
         public void TampilkanInfo()
         {
-            Console.WriteLine("Mobil saya berwarna {0}", Warna);
-            Console.WriteLine("merek {0}", Merek);
-            Console.WriteLine("model {0}", Model);
-            Console.WriteLine("keluaran tahun {0}", Tahun_keluaran);
-            Console.WriteLine("jumlah pintu sebanyak {0}", Jumlah_pintu);
+            Console.Write(" Mobil saya berwarna {0}", Warna);
+            Console.Write(" merek {0}", Merek);
+            Console.Write(" model {0}", Model);
+            Console.Write(" keluaran tahun {0}", Tahun_keluaran);
+            Console.Write(" jumlah pintu sebanyak {0}\n", Jumlah_pintu);
             Console.ReadKey();   
         }
     }
