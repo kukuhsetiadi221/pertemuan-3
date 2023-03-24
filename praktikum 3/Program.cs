@@ -19,7 +19,7 @@ namespace praktikum_3
             mobil1.Model = "Rubicon";
             mobil1.Kecepatan = 180f;
             mobil1.Tahun_keluaran = "2003";
-            mobil1.Suara = "telolet telolet";
+            mobil1.Suara = "brum brum";
 
 
             mobil1.Gas();
